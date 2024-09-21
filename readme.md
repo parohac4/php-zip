@@ -23,6 +23,6 @@ soubor pro povolení přístupu jen z konkrétní IP
 
 ## Bezpečnostní upozornění: 
 
-Doporučuji skripty přidat do složky s náhodným názvem a použít blokování IP pomocí souboru .htaccess přímo v dané složce. Případně hned po stažení zálohy složku s tímto nástrojem smazat. 
+Doporučuji skripty přidat do složky s náhodným názvem a použít blokování IP pomocí souboru .htaccess přímo v dané složce. Případně hned po stažení zálohy složku s tímto nástrojem smazat. Pro generování náhodného názvu složky slouží bash skript **generuj_nazev.sh** ve složce *generátor* **(tuto složku nekopírujte na FTP!)**
 
 Na FTP použiji složku */www/domains/domena.tld/slozka* 
