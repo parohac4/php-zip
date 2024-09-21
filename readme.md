@@ -4,7 +4,7 @@
 
 **zip.php** 
 
-zazipuje adresář **/** a poté nabídne stažení zip souboru. Pracuje dávkově po 1000 souborech, aby se počítalo s max_execution_time na 90. Skript běží na základě ajaxového dotazu, na konci po provedení zálohy se stránka reloaduje a nabídne link na stažení zálohy
+zazipuje adresář **/** (root) a poté nabídne stažení zip souboru. Pracuje dávkově po 1000 souborech, aby se počítalo s max_execution_time na 90. Skript běží na základě ajaxového dotazu, na konci po provedení zálohy se stránka reloaduje a nabídne link na stažení zálohy
 
 **delete_backup.php**
 
